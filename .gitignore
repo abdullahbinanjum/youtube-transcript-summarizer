@@ -25,3 +25,22 @@ Thumbs.db
 
 # Cache
 .cache/
+
+# Environment variables
+.env
+
+# Local data files
+*.json
+*.csv
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output transcripts/summaries (optional)
+transcripts/
+summaries/
