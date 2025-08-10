@@ -39,7 +39,7 @@ agent = Agent(
 # ----------------------------
 # Streamlit UI
 # ----------------------------
-st.set_page_config(page_title="Agno YouTube Summarizer", page_icon="🎬", layout="centered")
+st.set_page_config(page_title="YouTube Summarizer", page_icon="🎬", layout="centered")
 st.markdown("""
     <div style="text-align:center;">
         <h1>🎬 Agno YouTube Summarizer</h1>
